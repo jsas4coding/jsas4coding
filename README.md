@@ -4,7 +4,7 @@
 
 Backend & Full Stack Developer with 21+ years of experience delivering enterprise-grade systems across banking, fintech, e-commerce, SaaS, and real estate industries. I specialize in backend architecture, API design, and system optimization, building secure, scalable, and maintainable software solutions.
 
-Throughout my career, I have architected and implemented mission-critical platforms for leading companies such as **ABN AMRO (Banco Real), Santander, Itaú BBA, Danone, Wildlife Studios, Plano\&Plano ([www.planoeplano.com.br](http://www.planoeplano.com.br)), Cyrela ([www.cyrela.com.br](http://www.cyrela.com.br))** and multiple SaaS and fintech startups.
+Throughout my career, I have architected and implemented mission-critical platforms for leading companies such as **ABN AMRO (Banco Real), Santander, Itaú BBA, Danone, Wildlife Studios, Plano\&Plano ([www.planoeplano.com.br](http://www.planoeplano.com.br)) and multiple SaaS and fintech startups.
 
 **Technical Expertise:**
 
