@@ -4,7 +4,40 @@
 
 Backend & Full Stack Developer with 21+ years of experience delivering enterprise-grade systems across banking, fintech, e-commerce, SaaS, and real estate industries. I specialize in backend architecture, API design, and system optimization, building secure, scalable, and maintainable software solutions.
 
-Throughout my career, I have architected and implemented mission-critical platforms for leading companies such as **ABN AMRO (Banco Real), Santander, Itaú BBA, Danone, Wildlife Studios, Plano\&Plano ([www.planoeplano.com.br](http://www.planoeplano.com.br)) and multiple SaaS and fintech startups.
+I work fully remote, collaborating with clients and teams globally to build reliable, production-grade backend systems that directly support business growth.
+
+Throughout my career, I have architected and implemented mission-critical platforms for leading companies such as (not listed in chronological order):
+
+* **4beeflix (BWG)**
+* **ABN AMRO (Banco Real)**
+* **ACH**
+* **Ampla Incorporadora**
+* **Archtech**
+* **Bandepe**
+* **Caprem**
+* **CCDI**
+* **CONX**
+* **Danone**
+* **Diálogo**
+* **Digio**
+* **Dr Oetker**
+* **Folha de São Paulo**
+* **Frias Neto**
+* **Hypo**
+* **Itaú BBA**
+* **Jalico**
+* **Longitude**
+* **Plano\&Plano**
+* **Prime Enery (Shell)**
+* **Real Tokio Marine**
+* **Santander**
+* **SBPSP**
+* **Shpaisman**
+* **StrategyBox**
+* **Sudameris**
+* **Tibério**
+* **Wildlife Studios**
+* *and others...*
 
 **Technical Expertise:**
 
@@ -38,7 +71,7 @@ I'm passionate about backend engineering, problem solving, system stability, and
 * Legacy Systems Modernization
 * Performance & Security Optimization
 * CI/CD & Infrastructure Automation
-* Consulting & International Freelance Projects
+* Remote Consulting & International Freelance Projects
 
 ---
 
@@ -56,6 +89,7 @@ I'm passionate about backend engineering, problem solving, system stability, and
 * [Mastodon](https://mastodon.social/deck/@jsas)
 * [Medium](https://medium.com/@jonatassas)
 * [GitHub](https://github.com/jsas4coding)
+* [WhatsApp](https://wa.me/5511930601950)
 
 ---
 
