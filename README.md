@@ -89,6 +89,7 @@ I'm passionate about backend engineering, problem solving, system stability, and
 * [Mastodon](https://mastodon.social/deck/@jsas)
 * [Medium](https://medium.com/@jonatassas)
 * [GitHub](https://github.com/jsas4coding)
+* [Telegram](https://t.me/jsasdev)
 * [WhatsApp](https://wa.me/5511930601950)
 
 ---
