@@ -6,39 +6,6 @@ Backend & Full Stack Developer with 21+ years of experience delivering enterpris
 
 I work fully remote, collaborating with clients and teams globally to build reliable, production-grade backend systems that directly support business growth.
 
-Throughout my career, I have architected and implemented mission-critical platforms for leading companies such as (not listed in chronological order):
-
-* **4beeflix (BWG)**
-* **ABN AMRO (Banco Real)**
-* **ACH**
-* **Ampla Incorporadora**
-* **Archtech**
-* **Bandepe**
-* **Caprem**
-* **CCDI**
-* **CONX**
-* **Danone**
-* **Diálogo**
-* **Digio**
-* **Dr Oetker**
-* **Folha de São Paulo**
-* **Frias Neto**
-* **Hypo**
-* **Itaú BBA**
-* **Jalico**
-* **Longitude**
-* **Plano\&Plano**
-* **Prime Enery (Shell)**
-* **Real Tokio Marine**
-* **Santander**
-* **SBPSP**
-* **Shpaisman**
-* **StrategyBox**
-* **Sudameris**
-* **Tibério**
-* **Wildlife Studios**
-* *and others...*
-
 **Technical Expertise:**
 
 * 🤩 PHP (Yii2, Laravel, Magento)
@@ -75,20 +42,14 @@ I'm passionate about backend engineering, problem solving, system stability, and
 
 ---
 
-## 📋 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jsas4coding\&show_icons=true\&hide_title=true\&hide=issues\&count_private=true\&theme=default)
-
----
-
 ## 🌐 Connect with Me
 
+* [GitHub](https://github.com/jsas4coding)
 * [LinkedIn](https://www.linkedin.com/in/jsas4coding)
-* [Dev.to](https://dev.to/jonatas_sas)
 * [X (Twitter)](https://x.com/SasJonatas)
 * [Mastodon](https://mastodon.social/deck/@jsas)
+* [Dev.to](https://dev.to/jonatas_sas)
 * [Medium](https://medium.com/@jonatassas)
-* [GitHub](https://github.com/jsas4coding)
 * [Telegram](https://t.me/jsasdev)
 * [WhatsApp](https://wa.me/5511930601950)
 
