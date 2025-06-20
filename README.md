@@ -14,9 +14,9 @@ Currently working remotely with international teams to build scalable, maintaina
 
 **Core Expertise:**
 
-* **Languages & Frameworks:** PHP (Laravel, Yii2, Magento, WordPress), Go, Python, Node.js (tooling/integrations)
-* **Frontend:** HTML, CSS, JavaScript (Vue, React, Angular), React Native
-* **Databases:** PostgreSQL, MySQL, MariaDB
+* **Languages & Frameworks:** PHP (Laravel, Yii2, Magento, WordPress, etc.), Go, Python, Node.js (JavaScript)
+* **Frontend:** HTML, CSS, JavaScript (React, Vue, Angular)
+* **Databases:** PostgreSQL, MySQL, MariaDB, etc.
 * **Domains:** Backend Architecture, Microservices Design, API Development, CI/CD, Test Automation, Secure Coding, Infrastructure Automation, Legacy Modernization, System Hardening, Performance Optimization, SEO Implementation & Audits, Security Reviews
 
 Although I specialize in backend systems, I’m also comfortable working across the full stack when needed — including modern frontend frameworks, CMS platforms like WordPress, and integration-heavy environments.
