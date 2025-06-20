@@ -1,48 +1,52 @@
-# 👋 Hi, I'm Jonatas — Backend & Full Stack Developer
+# Jonatas Sas
 
-## 🧑‍💻 About Me
+## Backend & Full Stack Developer
 
-Backend & Full Stack Developer with 21+ years of experience delivering enterprise-grade systems across banking, fintech, e-commerce, SaaS, and real estate industries. I specialize in backend architecture, API design, and system optimization, building secure, scalable, and maintainable software solutions.
+Backend and Full Stack Developer with 21+ years of experience designing and maintaining enterprise-grade systems across banking, fintech, e-commerce, SaaS, and real estate sectors.
 
-I work fully remote, collaborating with clients and teams globally to build reliable, production-grade backend systems that directly support business growth.
+I specialize in backend architecture, secure API design, and system performance optimization — delivering robust solutions for mission-critical environments with high availability and low downtime requirements. I’ve also developed backends for high-traffic mobile applications and distributed platforms.
 
-**Technical Expertise:**
+Currently working remotely with international teams to build scalable, maintainable, and production-ready systems that support real business operations.
 
-* 🤩 PHP (Yii2, Laravel, Magento)
-* ⚙️ Go
-* 🐍 Python
-* 🤠 Node.js (integrations & tooling)
-* 🌐 HTML, CSS, JavaScript (Angular, Vue, React)
-* 📱 React Native
-* 🐘 PostgreSQL, MySQL, MariaDB
-* 🔒 Secure Coding, API Development, CI/CD, Infrastructure Automation
-* 🌐 System Architecture, Legacy Modernization, Performance Optimization
+**Core Expertise:**
 
-I'm passionate about backend engineering, problem solving, system stability, and long-term maintainability, with a strong focus on delivering real business value.
+* **Languages & Frameworks:** PHP (Laravel, Yii2, Magento, WordPress, etc.), Go, Python, Node.js (tooling/integrations)
+* **Frontend:** HTML, CSS, JavaScript (Vue, React, Angular), React Native
+* **Databases:** PostgreSQL, MariaDB, MySQL, etc.
+* **Domains:** Backend Architecture, Microservices Design, API Development, CI/CD, Test Automation, Secure Coding, Infrastructure Automation, Legacy Modernization, System Hardening, Performance Optimization, SEO Implementation & Audits, Security Reviews
 
----
+Although I specialize in backend systems, I’m also comfortable working across the full stack when needed — including modern frontend frameworks, CMS platforms like WordPress, and integration-heavy environments.
 
-## 🚀 Selected Open Source Projects
-
-* [`yiifusion-mailer-drivers`](https://github.com/jsas4coding/yiifusion-mailer-drivers) — API-based mailer for Yii2 (SendGrid, Mailgun, Brevo, SMTP, and more)
-* [`yii2-m2m-behavior`](https://github.com/jsas4coding/yii2-m2m-behavior) — Simplifying many-to-many relationships in Yii2 Active Record layer
-* [`pma-up`](https://github.com/jsas4coding/pma-up) — Fully automated phpMyAdmin updater (written in Go)
-* [`tools-electron-app-generator`](https://github.com/jsas4coding/tools-electron-app-generator) — Electron scaffolding CLI generator (Python)
+Committed to code quality, reliability, and long-term maintainability — applying robust testing strategies, automated pipelines, and architectural rigor to ensure consistent delivery.
 
 ---
 
-## 🌍 Open for
+## Selected Open Source Projects
 
-* Backend Architecture Design
-* API Development & Integrations
-* Legacy Systems Modernization
-* Performance & Security Optimization
-* CI/CD & Infrastructure Automation
-* Remote Consulting & International Freelance Projects
+* [`yii2-m2m-behavior`](https://github.com/jsas4coding/yii2-m2m-behavior) — Simplifies many-to-many relations in Yii2 Active Record
+* [`pma-up`](https://github.com/jsas4coding/pma-up) — Automated phpMyAdmin updater (Go)
+* [`tools-electron-app-generator`](https://github.com/jsas4coding/tools-electron-app-generator) — CLI scaffolder for Electron apps (Python)
 
 ---
 
-## 🌐 Connect with Me
+## Open to Work On
+
+* Backend Architecture for Distributed & High-Availability Systems
+* Microservices Design & Implementation
+* API Design & Third-Party Integrations
+* Refactoring & Modernizing Legacy Codebases
+* CI/CD Pipelines & Infra Automation
+* Automated Testing & Quality Assurance
+* SEO Optimization & Technical Audits
+* Performance Optimization & Secure Coding
+* WordPress-based Architecture & Customization
+* Security Reviews & Hardened Deployments
+
+**Available for remote freelance opportunities** — from architecture planning to end-to-end backend development. Feel free to reach out via [Telegram](https://t.me/jsasdev) or [WhatsApp](https://wa.me/5511930601950) to start a conversation.
+
+---
+
+## Contact
 
 * [GitHub](https://github.com/jsas4coding)
 * [LinkedIn](https://www.linkedin.com/in/jsas4coding)
@@ -55,4 +59,4 @@ I'm passionate about backend engineering, problem solving, system stability, and
 
 ---
 
-> *Delivering stable, scalable, and secure backend systems — building software that runs the business.*
+> *Engineering stable, scalable, and secure systems that keep real-world businesses running.*
