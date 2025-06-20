@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="jsas-icon-circle.png" alt="Jonatas Sas" width="200" />
+</p>
+
 # Jonatas Sas
 
 ## Backend & Full Stack Developer
@@ -10,9 +14,9 @@ Currently working remotely with international teams to build scalable, maintaina
 
 **Core Expertise:**
 
-* **Languages & Frameworks:** PHP (Laravel, Yii2, Magento, WordPress, etc.), Go, Python, Node.js (tooling/integrations)
+* **Languages & Frameworks:** PHP (Laravel, Yii2, Magento, WordPress), Go, Python, Node.js (tooling/integrations)
 * **Frontend:** HTML, CSS, JavaScript (Vue, React, Angular), React Native
-* **Databases:** PostgreSQL, MariaDB, MySQL, etc.
+* **Databases:** PostgreSQL, MySQL, MariaDB
 * **Domains:** Backend Architecture, Microservices Design, API Development, CI/CD, Test Automation, Secure Coding, Infrastructure Automation, Legacy Modernization, System Hardening, Performance Optimization, SEO Implementation & Audits, Security Reviews
 
 Although I specialize in backend systems, I’m also comfortable working across the full stack when needed — including modern frontend frameworks, CMS platforms like WordPress, and integration-heavy environments.
