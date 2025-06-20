@@ -1,4 +1,4 @@
-<p align="right">
+<p align="center">
   <img src="jsas-icon-circle.png" alt="Jonatas Sas" width="150" />
 </p>
 
