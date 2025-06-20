@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="jsas-icon-circle.png" alt="Jonatas Sas" width="200" />
+  <img src="jsas-icon-circle.png" alt="Jonatas Sas" width="150" />
 </p>
 
 # Jonatas Sas
