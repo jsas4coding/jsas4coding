@@ -33,33 +33,10 @@ Committed to code quality, reliability, and long-term maintainability — applyi
 
 ---
 
-## Open to Work On
-
-* Backend Architecture for Distributed & High-Availability Systems
-* Microservices Design & Implementation
-* API Design & Third-Party Integrations
-* Refactoring & Modernizing Legacy Codebases
-* CI/CD Pipelines & Infra Automation
-* Automated Testing & Quality Assurance
-* SEO Optimization & Technical Audits
-* Performance Optimization & Secure Coding
-* WordPress-based Architecture & Customization
-* Security Reviews & Hardened Deployments
-
-**Available for remote freelance opportunities** — from architecture planning to end-to-end backend development. Feel free to reach out via [Telegram](https://t.me/jsasdev) or [WhatsApp](https://wa.me/5511930601950) to start a conversation.
-
----
-
 ## Contact
 
 * [GitHub](https://github.com/jsas4coding)
 * [LinkedIn](https://www.linkedin.com/in/jsas4coding)
-* [X (Twitter)](https://x.com/SasJonatas)
-* [Mastodon](https://mastodon.social/deck/@jsas)
-* [Dev.to](https://dev.to/jonatas_sas)
-* [Medium](https://medium.com/@jonatassas)
-* [Telegram](https://t.me/jsasdev)
-* [WhatsApp](https://wa.me/5511930601950)
 
 ---
 
